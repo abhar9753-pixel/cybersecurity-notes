@@ -25,3 +25,13 @@
 - Used `ifconfig` / `ipconfig` to check my own IP
 - Completed TryHackMe room: [room name]
 - Key takeaway: [what I learned]
+## TryHackMe Progress
+
+### Room: Offensive Security Intro
+- Completed on: 26 July 2026
+- What I learned:
+  - Difference between Offensive Security and Defensive Security
+  - Used `dirb` tool to find hidden directories on a website
+  - Found hidden admin panel and exploited it to change account balance
+  - Practiced basic web exploitation in a safe, legal environment
+- Key takeaway: Small misconfigurations (like exposed admin panels) can lead to big security issues
