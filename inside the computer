@@ -1,0 +1,21 @@
+## TryHackMe: Inside The Computer
+
+Completed the **Inside The Computer** room on TryHackMe, which covers the 
+fundamentals of how a computer works at the hardware level.
+
+### What I learned
+- The core components that make up a CPU and how they work together
+- The role of the **Control Unit (CU)** in directing operations
+- How the **Arithmetic Logic Unit (ALU)** performs calculations and logic operations
+- The purpose of **registers** for fast, temporary data storage
+- How the **Memory Unit** and **cache** interact with the CPU
+- The function of the **bus system** (data, address, control) in moving 
+  information between components
+- How the **clock** synchronizes operations inside the CPU
+
+### Key takeaway
+Understanding the basic architecture of a CPU builds the foundation for 
+grasping more advanced topics like memory forensics, reverse engineering, 
+and low-level exploitation later in a cybersecurity path.
+
+**Room:** [Inside The Computer](https://tryhackme.com/room/insidethecomputer)
